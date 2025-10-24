@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Link from "next/link";
 
 export default function Home() {
@@ -12,14 +12,9 @@ export default function Home() {
 
         <h1>Welcome</h1>
 
-<Link href={"/register"}>Register</Link>
-<Link href={"/login"}>Login</Link>
-<Link href={"/admin/login"}>Admin Login</Link>
-
-
-       </div>
-
-
+<Link style={{margin:20}} href={"/register"}>Register</Link> 
+<Link style={{margin:20}} href={"/login"}>Login</Link>
+<Link style={{margin:20}} href={"/admin/login"}>Admin Login</Link> </div>
 
 
         </div>

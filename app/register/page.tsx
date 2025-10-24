@@ -7,6 +7,7 @@ export default function Register(){
     console.log("register from :",form);
     
     return(
+        
         <form >
             <h2>Register</h2>
             <input type="text" placeholder="Name" onChange={(e)=>setForm({...form,name:e.target.value})} required /> <br />

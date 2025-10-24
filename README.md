@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# nextjs-user-admin
+✔ Pages: Home, Register, Login ✔ Admin Login &amp; Admin Dashboard (show users list) ✔ MongoDB + Mongoose ✔ JWT Auth using HttpOnly Cookie ✔ Very Simple Forms ✔ page.tsx for every page
+>>>>>>> 113500b7731858e9fbdb630d286639903839dd9c
